@@ -1,4 +1,4 @@
-###<b>I'm João Marcos, nice to meet you! 💻👋<b>
+###<br><b>I'm João Marcos, nice to meet you! 💻👋<b><br>
          18y. Programming student. Looking for a job. Never stop learning.💪🍃
 <a> 
  > Favourites tools: <br>
