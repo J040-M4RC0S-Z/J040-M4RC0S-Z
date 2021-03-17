@@ -1,10 +1,9 @@
 ### Hi there 👋
  > Favourites tools:
     > 🐍 Python
-    > ![image](https://user-images.githubusercontent.com/73258473/111546634-bcd5d680-8756-11eb-8b03-b068af5fe665.png) JavaScript
+    > ![image](https://user-images.githubusercontent.com/73258473/111547543-168ad080-8758-11eb-8d2e-4c2efeabdaa6.png) JavaScript
     > HTML
-    > ![image](https://user-images.githubusercontent.com/73258473/111535279-b68c2e00-8747-11eb-99fa-6a313188898c.png) CSS3  
-
+    > ![image](https://user-images.githubusercontent.com/73258473/111547495-05da5a80-8758-11eb-9cc9-cc1fa96913da.png) CSS-3
 **J040-M4RC0S-Z/J040-M4RC0S-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
