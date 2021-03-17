@@ -1,7 +1,7 @@
 ### Hi there 👋
  > Favourites tools:
     > 🐍 Python
-    > ![image](https://user-images.githubusercontent.com/73258473/111535159-9492ab80-8747-11eb-9d4c-e48ff1b69e97.png) JavaScript
+    > ![image](https://user-images.githubusercontent.com/73258473/111539941-408ac580-874d-11eb-8bbc-97cf5c70e428.png) JavaScript
     > HTML
     > ![image](https://user-images.githubusercontent.com/73258473/111535279-b68c2e00-8747-11eb-99fa-6a313188898c.png) CSS3  
 
