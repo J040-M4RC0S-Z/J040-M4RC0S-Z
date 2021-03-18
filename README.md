@@ -7,7 +7,7 @@
          > ![image](https://user-images.githubusercontent.com/73258473/111547495-05da5a80-8758-11eb-9cc9-cc1fa96913da.png) CSS-3 <br>
        
   <p>Certificates💻🎓
-  <li><a href="![image](https://user-images.githubusercontent.com/73258473/111555921-27dbd900-8768-11eb-89ea-eccb2f85a21b.png)
+  <li><a href="https://github.com/J040-M4RC0S-Z/first-programs/blob/main/Certificados/certificado%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o_page-0001.jpg?raw=true
 " target="_self" > Senai - Lógica de programação 14h ✔</a></li>
   <p>    
 
