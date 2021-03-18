@@ -1,5 +1,5 @@
 <br><b>I'm João Marcos, nice to meet you! 💻👋<b><br>
-         18y. Programming student. Looking for a job. Never stop learning.💪🍃
+         18y. Programming student. Looking for a job. Never stop learning.💪🍃<br>
          > Favourites tools: <br>
          > 🐍 Python <br>
          > ![image](https://user-images.githubusercontent.com/73258473/111555326-eeef3480-8766-11eb-990f-b8cb549ff77e.png) JavaScript <br>
@@ -8,7 +8,7 @@
        
   <p>Certificates💻🎓
   <li><a href="https://github.com/J040-M4RC0S-Z/first-programs/blob/main/Certificados/certificado%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o_page-0001.jpg?raw=true
-" target="_self" > Senai - Lógica de programação 14h ✔</a></li>
+" target="_blank" > Senai - Lógica de programação 14h ✔</a></li>
   <p>    
 
 
