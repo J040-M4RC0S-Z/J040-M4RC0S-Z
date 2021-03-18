@@ -7,7 +7,7 @@
          > ![image](https://user-images.githubusercontent.com/73258473/111547495-05da5a80-8758-11eb-9cc9-cc1fa96913da.png) CSS-3 <br>
        
   <p>Certificates💻🎓
-  <li>![Uploading image.png…]() <= Senai - Lógica de programação 14h ✔ <li>
+  <li>![image](https://user-images.githubusercontent.com/73258473/111555743-cf0c4080-8767-11eb-93d1-4fcd12f94106.png) <= Senai - Lógica de programação 14h ✔ </li>
   <p>    
 
 
