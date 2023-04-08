@@ -1,5 +1,5 @@
 <br><b>I'm João Marcos, nice to meet you! 💻👋<b><br>
-         18y. Programming student. Looking for a job. Never stop learning.💪🍃<br>
+         20y. Programming student | computer science student at UFMG. Never stop learning.💪🍃<br>
          > Favourites tools (and in learning): <br>
          > 🐍 Python <br>
          > ![image](https://user-images.githubusercontent.com/73258473/111555326-eeef3480-8766-11eb-990f-b8cb549ff77e.png) JavaScript <br>
